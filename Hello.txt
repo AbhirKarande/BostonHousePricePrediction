@@ -1,0 +1,1 @@
+The provided collab notebook is where the meat and potatoes of the project is.
